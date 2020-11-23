@@ -1,2 +1,3 @@
-# tools-app
-VUTTR (Very Useful Tools to Remember): A Great place to find the great tool to use.
+# Tools App
+
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
